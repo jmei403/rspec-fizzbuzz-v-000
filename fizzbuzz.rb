@@ -9,8 +9,7 @@ def fizzbuzz(num)
   return nil
 end
 
-fizzbuzz(15)
-fizzbuzz(5)
-fizzbuzz(3)
-fizzbuzz(4)
-
+p fizzbuzz(15)
+p fizzbuzz(5)
+p fizzbuzz(3)
+p fizzbuzz(4)
