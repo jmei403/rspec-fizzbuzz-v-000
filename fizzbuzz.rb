@@ -8,8 +8,3 @@ def fizzbuzz(num)
   end
   nil
 end
-
-p fizzbuzz(15)
-p fizzbuzz(5)
-p fizzbuzz(3)
-p fizzbuzz(4)
