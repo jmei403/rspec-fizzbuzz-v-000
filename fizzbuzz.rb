@@ -6,7 +6,7 @@ def fizzbuzz(num)
   elsif num % 5 == 0
     return "Buzz"
   end
-  nil
+  puts nil
 end
 
 fizzbuzz(4)
